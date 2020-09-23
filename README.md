@@ -1,5 +1,3 @@
-# LotsDesign
-
 ## Feature request
 Any feature we are willing to see.
 
